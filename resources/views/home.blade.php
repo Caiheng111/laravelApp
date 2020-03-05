@@ -19,11 +19,15 @@
         </div>
     </div>
 
-    <div class="row">
-        <div class="col-4">
-            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="">
-            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="">
-            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="">
+    <div class="row pt-6 pl-5">
+        <div class="col-4 ">
+            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="" class="w-100">
+        </div>
+        <div class="col-4 ">
+            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="" class="w-100">
+        </div>
+        <div class="col-4 ">
+            <img src="https://instagram.fsyd3-1.fna.fbcdn.net/v/t51.2885-15/e35/c100.0.501.501a/89260743_2658694764411607_948672185790002051_n.jpg?_nc_ht=instagram.fsyd3-1.fna.fbcdn.net&amp;_nc_cat=107&amp;_nc_ohc=n9Nz7_LWpu4AX-7vp9j&amp;oh=9daabf83f369803b4cac13a2cbcb24e5&amp;oe=5E982F5D" alt="" class="w-100">
         </div>
     </div>
 
